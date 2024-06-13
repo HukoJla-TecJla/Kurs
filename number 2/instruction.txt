@@ -1,0 +1,14 @@
+Load A, in.txt;
+Save A, in2.txt;
+Rand A, 4, 10, 20;
+Concat A, b;
+Free(a);
+Remove a, 2, 7;
+Copy A, 4, 10, b;
+Sort A-;
+Permute A;
+Intersect A, B;
+Xor A, B;
+Stat a;
+Print a, 4, 16;
+Print a, ALL;

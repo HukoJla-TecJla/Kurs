@@ -1,0 +1,8 @@
+﻿  maincpp.cpp
+C:\Users\Михаил\Desktop\plmcw\number 11\maincpp.cpp(61,41): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Михаил\Desktop\plmcw\number 11\maincpp.cpp(62,67): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+  number 11.vcxproj -> C:\Users\Михаил\Desktop\plmcw\x64\Debug\number 11.exe

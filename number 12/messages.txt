@@ -1,0 +1,6 @@
+Alice  10:15:23.123: Hello Bob, how are you?
+Bob  10:20:45.678: Hi Alice, I'm doing fine, thanks!
+Alice  11:30:00.987: Great! Let's meet tomorrow.
+Bob  11:35:10.543: Sure, where do you want to meet?
+Alice  11:40:20.123: Let's meet at the coffee shop near the park.
+Bob  11:45:30.678: Okay, see you there!
